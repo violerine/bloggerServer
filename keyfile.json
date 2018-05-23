@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cobagcp",
+  "private_key_id": "a09303bd3227458321f79c205d183af12c6dccd6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXkNlCmjG2tYu7\nKe5v/XIEP6iBJzNG5f7HqmQraM/sA00JzSYq7gfOSURc1ztFEKv2VvLFMZw7UlOH\n2o8LDaDcnar3ca9IjRe/qQf2vVAeI6e7BX7objrXZ5de9sAH5X0+TRJOxcvpySX7\nlwf3hRG0IbekRtcOhAj1um4bgCiJf3NppVCpDtm96Ki5wgygV/GVd3NWZtCPBHhw\nvRa/e9JcyyDAhBMeoqEdiFm40+ubdfFxoZzXZnPj8LD7X7e4rzrrClgrrRJ/xhX7\nrTftwp8vHfbmspynT2AUpQl91pjaukCvF1AgMlPd3J+rycqGey79VVOB0qINwk+m\nC4M4gRLFAgMBAAECggEACsDXya4B9VyUkhtbINyKg8I+MGUpdmuyPDkYgp7Zomse\nvHKuqP0TSBvZDG2TMBSPE3yOYz5gjggDETeao6FEKUU3Ol1CMnMRYHb45frXJI3A\nSADT7hnTlxu8jhjuhuZQi1tSYroUvD6TxbtowxTxB2SYMdpzz25QORvZ8sa/nu40\na9FXDuwOIvu7u7b0A85EoCp9dLgPNWyA0xsI86R6fcZ8dzY61FiV1UQuIjo5Bi67\nqCI8Uw2CadiF3KT0MGGdSlIYKU4mIgME9kPiTPzWkMfKwussZeMEShyamoDsmM8q\nJZu+8P0bSdFG3ii09CRGQpwz7tb4eQbjz67ZJjUNCQKBgQD+Llo1zGdlLZLuCSvB\nxqbt60zQIixlqJhQAEBEi1DLC+CosXYwHgZTpfkqw4XrAPPUNVCbpQANFNtZpo0H\nELPmz44/pB2B9OR5psn/Sa29QBr+oS7Zc+v12ELYytUpg/0kzhrahPxD8nT1d8q8\nSSIgPuhHlF1IWKvKjwO78SRk7QKBgQDZG8FHC3jM3qaGA46AqkFgMA9Mo/0II4Dy\nu6Hz9Yd6K5XmWybc6H/JEG4Wb7APaSLZQeJw0XiNMJ4k3ra1fCBkiXlHOhytA3Ww\nMupDegpOocE/q2orxd2Eu3FESWiYLShaAyzFG2m42ZDWyJMzXkbrAadwge7bIHmb\nxfPD1DfCOQKBgDJVl4Oj0K3WkowUwNeEsTXYLMPioIwZEOB2zENGm186IOkHC3KH\n35Tc/zSat4BMFfzl+ep4iEQO50kflDnb8uQ4IeE0bKt5hW0ZvFKTkpYxhab64D4r\nmIR8qPApaoDoJE8PiX3Qa+xArSyW5kzW5q0gB/t0w+w5svtPytuC60QZAoGAVukI\nbyNFgWWj7cPguNru/s1eYoTHFwn3ZbP8+gcQ67Qk9qkInqgn91ovZ6XgKdshiy0X\ns6f3BTYwKHxLUc1VvklWFlBKCGx5IUbQhqCFHcMc9BrvjoRP0AGlLvvf9gMlwxrA\nQkteABSAKarzWj3kT9FCsQQilO+kHtqYYY1DoOkCgYEAu4sSNWrurleDqsy2RCHw\nFT97I/SomleFIH60VCSuXICqPz/EJdWCX0cV22s0NVnk1cg9F0Hl9+CsGUQVX/dQ\nZi8u6WaqCWLNoC5BRO4uIN+FJ+nG5MYEIvMS0YrHoP1emLVjW9nqrkR/RjPM+h7y\n6KHI422k0kB904Guw6Lgy1k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcpservice@cobagcp.iam.gserviceaccount.com",
+  "client_id": "114575725741181380911",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcpservice%40cobagcp.iam.gserviceaccount.com"
+}
